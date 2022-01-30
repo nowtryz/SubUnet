@@ -5,7 +5,7 @@
 
 ![Comparison](paper/img/comparaison.png)
 
-SubUnet is a Deep Learning Architecture base on unet used for a challenge et Ecole de Technologie Supérieur during the course of Jose Dolz. The trained model we submitted ended up in first place.
+SubUnet is a Deep Learning Architecture based on U-Net used for a challenge at Ecole de Technologie Supérieur during Jose Dolz' class. The trained model we submitted ended up in first place.
 
 The purpose of this challenge was to segment the right ventricle (blue), the left ventricle (orange), and the left ventricle myocardial (green), as you can see in the image above.
 
@@ -47,7 +47,7 @@ If you want to use our code to train a model, the following steps will get you s
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.md` for more information.
+It is distributed under the MIT License. See `LICENSE.md` for more information.
 
 
 <!-- CONTACT -->
