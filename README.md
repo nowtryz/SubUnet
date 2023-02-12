@@ -9,7 +9,7 @@ SubUnet is a Deep Learning Architecture based on U-Net used for a challenge at [
 
 The purpose of this challenge was to segment the right ventricle (blue), the left ventricle (orange), and the left ventricle myocardial (green), as you can see in the image above. The tricky part of this challenge is that the given dataset only contains *1208 images for the training and 90 images for evaluation*.
 
-The architecture of our model is based on Unet, but the lowest layer is replaced by a Pyramidal Pooling Module (presented by PSPNet). This modification and some modifications ported to UNet aimed to increase the receptive field of the model. The schema below presents the whole architecture of our model. The paper we submitted to our professor (FR) is available [here](paper-fr.pdf)
+The architecture of our model is based on Unet, but the lowest layer is replaced by a Pyramidal Pooling Module (presented by PSPNet). This modification and some modifications ported to UNet aimed to increase the receptive field of the model. The schema below presents the whole architecture of our model. The paper we submitted to our professor (FR) is available [here](paper-fr.pdf) and its english translation is available [here](paper-en.pdf)
 
 ![Model](paper/img/SubUnetAvecPPM.png)
 
